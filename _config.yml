@@ -30,7 +30,7 @@ author:
   location         : "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
-  email            : 
+  email            : "rzjin@ucdavis.edu"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : 
+  github           : "ruizhijin-coder"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ruizhi-jin-048274332"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/5d3c1440000000001200a9e3"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
