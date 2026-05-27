@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Ruizhi Jin",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "Computer Science undergraduate at UC Davis building agentic advising systems, data tools, and human-centered software.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Davis",
+      "countryCode": "US",
+      "region": "CA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Department of Plant Science, UC Davis",
+      "position": "PLS 021 Tutor and Intern",
+      "location": "Davis, CA",
+      "startDate": "2025-09",
+      "endDate": "2026-03",
+      "summary": "Supported instruction in software platforms and student workflows."
+    },
+    {
+      "name": "Qi An Xin Technology Group Inc.",
+      "position": "Software Engineering Intern",
+      "location": "Wuhan, China",
+      "startDate": "2025-07",
+      "endDate": "2025-09",
+      "summary": "Developed and tested features for file sandbox and network traffic detection systems using Python and Linux."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Davis",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2024-09",
+      "endDate": "2028-06",
+      "gpa": "3.637/4.0",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software and AI",
+      "keywords": [
+        "Python",
+        "C++",
+        "PyTorch",
+        "Agentic RAG",
+        "API Integration",
+        "Data Normalization",
+        "Docker",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Landscape photography",
+        "Natural light",
+        "Outdoor scenes"
+      ]
+    }
+  ],
+  "references": [],
+  "publications": [],
+  "presentations": []
+}

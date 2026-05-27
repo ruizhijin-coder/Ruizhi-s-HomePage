@@ -1,0 +1,12 @@
+main:
+  - title: "About"
+    url: /
+
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Photography"
+    url: /photography/

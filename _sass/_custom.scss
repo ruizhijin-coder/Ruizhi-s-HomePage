@@ -1,0 +1,86 @@
+.photo-intro {
+  max-width: 900px;
+  margin: 0 auto 2rem;
+  padding: 2rem 1rem 0;
+}
+
+.photo-kicker {
+  margin: 0 0 0.4rem;
+  color: #496a5b;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.photo-intro h1 {
+  margin: 0 0 0.8rem;
+  font-size: 2.1rem;
+  line-height: 1.12;
+}
+
+.photo-intro p {
+  max-width: 720px;
+  font-size: 1rem;
+}
+
+.masonry-wall {
+  column-count: 3;
+  column-gap: 0.85rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem 1rem;
+}
+
+.masonry-photo {
+  display: block;
+  width: 100%;
+  margin: 0 0 0.85rem;
+  overflow: hidden;
+  border-radius: 8px;
+  background: transparent;
+  break-inside: avoid;
+  line-height: 0;
+  box-shadow: 0 8px 28px rgba(24, 31, 35, 0.1);
+}
+
+.masonry-photo a {
+  display: block;
+  line-height: 0;
+}
+
+.masonry-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 0;
+  transition: transform 180ms ease;
+}
+
+.masonry-photo:hover img {
+  transform: scale(1.025);
+}
+
+.photo-note {
+  max-width: 900px;
+  margin: 0 auto 2rem;
+  padding: 0 1rem;
+  color: #5f6c67;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 900px) {
+  .masonry-wall {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .photo-intro h1 {
+    font-size: 1.55rem;
+  }
+
+  .masonry-wall {
+    column-count: 1;
+  }
+}

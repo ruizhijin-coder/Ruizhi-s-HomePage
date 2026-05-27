@@ -1,0 +1,181 @@
+photos:
+  - image: "/images/photography/photo-01.jpg"
+    alt: "Landscape photograph"
+    orientation: "square"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-02.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-03.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-04.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-05.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-06.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-07.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-08.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-09.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 1440
+  - image: "/images/photography/photo-10.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-11.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-12.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-13.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-14.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2751
+    height: 1440
+  - image: "/images/photography/photo-15.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2750
+    height: 1440
+  - image: "/images/photography/photo-16.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 2750
+  - image: "/images/photography/photo-17.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2750
+  - image: "/images/photography/photo-18.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2750
+  - image: "/images/photography/photo-19.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2750
+    height: 1440
+  - image: "/images/photography/photo-20.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2751
+    height: 1440
+  - image: "/images/photography/photo-21.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2750
+    height: 1440
+  - image: "/images/photography/photo-22.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 2750
+    height: 1440
+  - image: "/images/photography/photo-23.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-24.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-25.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-26.jpg"
+    alt: "Landscape photograph"
+    orientation: "portrait"
+    rotate: 0
+    width: 1440
+    height: 2160
+  - image: "/images/photography/photo-27.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 960
+  - image: "/images/photography/photo-28.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 960
+  - image: "/images/photography/photo-29.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 959
+  - image: "/images/photography/photo-30.jpg"
+    alt: "Landscape photograph"
+    orientation: "landscape"
+    rotate: 0
+    width: 1440
+    height: 960
